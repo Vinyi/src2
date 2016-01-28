@@ -1,0 +1,7 @@
+wwwwwww
+w     w
+w 1	  w
+w A  0w
+w 1   w
+w     w
+wwwwwww
